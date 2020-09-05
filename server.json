@@ -2,27 +2,57 @@
   "products": [
     {
       "id": "123",
-      "title": "Nome do produto 01",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 50
+      "title": "Cadeira Gamer ",
+      "image_url": "https://www.casasbahia-imagens.com.br/Moveis/escritorio/cadeira-gamer/1502008296/1397652219/cadeira-gamer-azul-pctop-jx-1039b-1502008296.jpg",
+      "price": 849
     },
     {
       "id": "1234",
-      "title": "Nome do produto 02",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Computador",
+      "image_url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1212709084",
       "price": 60
     },
     {
       "id": "12345",
-      "title": "Nome do produto 03",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
+      "title": "Monitor",
+      "image_url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1355450554",
       "price": 70
     },
     {
+      "id": "1236",
+      "title": "Cadeira Gamer ",
+      "image_url": "https://www.casasbahia-imagens.com.br/Moveis/escritorio/cadeira-gamer/1502008296/1397652219/cadeira-gamer-azul-pctop-jx-1039b-1502008296.jpg",
+      "price": 849
+    },
+    {
+      "id": "12346",
+      "title": "Computador",
+      "image_url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1212709084",
+      "price": 60
+    },
+    {
       "id": "123456",
-      "title": "Nome do produto 04",
-      "image_url": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/camiseta-ecommerce.jpg",
-      "price": 80
+      "title": "Monitor",
+      "image_url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1355450554",
+      "price": 70
+    },
+    {
+      "id": "12311",
+      "title": "Cadeira Gamer ",
+      "image_url": "https://www.casasbahia-imagens.com.br/Moveis/escritorio/cadeira-gamer/1502008296/1397652219/cadeira-gamer-azul-pctop-jx-1039b-1502008296.jpg",
+      "price": 849
+    },
+    {
+      "id": "12348",
+      "title": "Computador",
+      "image_url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1212709084",
+      "price": 60
+    },
+    {
+      "id": "123458",
+      "title": "Monitor",
+      "image_url": "https://www.casasbahia-imagens.com.br/Control/ArquivoExibir.aspx?IdArquivo=1355450554",
+      "price": 70
     }
   ]
 }
